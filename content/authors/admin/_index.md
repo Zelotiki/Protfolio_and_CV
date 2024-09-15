@@ -1,6 +1,6 @@
 ---
 # Display name
-title: CV
+title: Portfolio
 
 # Name pronunciation (optional)
 name_pronunciation: Vadim Fominykh
@@ -25,37 +25,37 @@ role: BI & Data Analyst
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Triafly \ AllEvak
-    url: https://triafly.ru/ \ allevak.ru (allevak.com)
+    url: https://triafly.ru/ \ https://allevak.ru (allevak.com)
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:zelot93@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Business Intelligence
+  - Data Tools Solutions
+  - Resolving difficult issues 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of Information Technology in Economics
+    institution: Omsk Polytechnic University
+    date_start: 2013-09-01
+    date_end: 2019-06-15
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -142,12 +142,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Russian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 70
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
