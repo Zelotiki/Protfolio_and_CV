@@ -50,6 +50,7 @@ interests:
   - Business Intelligence
   - Data Tools Solutions
   - Resolving difficult issues 
+  - Improve experience from data's
 
 education:
   - area: Bachelor of Information Technology in Economics
@@ -62,9 +63,9 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Moscow University of Finance and Industry
+    date_start: 2011-09-01
+    date_end: 2013-06-31
     summary: |
       GPA: 3.8/4.0
 
@@ -73,9 +74,9 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Yandex School of Data Analysis
+    date_start: 2022-06-01
+    date_end: 2023-02-31
     summary: |
       GPA: 3.4/4.0
       
@@ -84,19 +85,19 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Analyst
+    company_name: Medexport North Star LLC
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2019-08-01
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: BI Analyst
+    company_name: AllEvak
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
@@ -112,34 +113,34 @@ work:
 skills:
   - name: Technical Skills
     items:
+      - name: BI
+        description: ''
+        percent: 100
+        icon: chart-bar
       - name: Python
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Restoration of car
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        percent: 40
+        icon: car
+      - name: Travels
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: person-simple-walk
+      - name: Philosophy
         description: ''
         percent: 80
-        icon: camera
+        icon: book
 
 languages:
   - name: Russian
