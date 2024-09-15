@@ -56,7 +56,7 @@ education:
   - area: Bachelor of Information Technology in Economics
     institution: Omsk Polytechnic University
     date_start: 2013-09-01
-    date_end: 2019-06-15
+    date_end: 2019-06-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -65,7 +65,7 @@ education:
   - area: MEng Artificial Intelligence
     institution: Moscow University of Finance and Industry
     date_start: 2011-09-01
-    date_end: 2013-06-31
+    date_end: 2013-06-01
     summary: |
       GPA: 3.8/4.0
 
@@ -76,7 +76,7 @@ education:
   - area: BSc Artificial Intelligence
     institution: Yandex School of Data Analysis
     date_start: 2022-06-01
-    date_end: 2023-02-31
+    date_end: 2023-02-01
     summary: |
       GPA: 3.4/4.0
       
@@ -101,7 +101,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2020-12-01
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
